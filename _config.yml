@@ -1,1 +1,6 @@
 theme: jekyll-theme-cayman
+title: "Joshua Deauna"
+description: "Made with <b style=\"color: f45;\">&lt;3</b>"
+
+external:
+- {title: Instagram, icon instagram, url: "https://www.instagram.com/joshua.deauna/"}  
